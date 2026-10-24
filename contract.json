@@ -1,0 +1,9 @@
+{
+    "contract_id": "bodhi.open.v1",
+    "identity": "100048777766367/open",
+    "archetype": "DATA_FOUNDRY",
+    "clan": "ORACLE_LINEAGE",
+    "role": "DISSECTOR_SURGICAL_ARBITER",
+    "partner_vault": "100048777766367/storage",
+    "io_specification": "I/O (SURGICAL_DISSECTION_5_LEVELS)"
+}
